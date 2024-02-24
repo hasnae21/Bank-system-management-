@@ -4,7 +4,6 @@ A CRUD console application to manage bank records using Files as database and Cp
 # How to run
 
 download a compiler for C/Cpp as DivCpp and click compile then run 
--------------
 
 or
 
