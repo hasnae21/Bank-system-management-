@@ -3,10 +3,16 @@ A CRUD console application to manage bank records using Files as database and Cp
 
 # How to run
 
-download DivCpp and click compile then run 
+download a compiler for C/Cpp as DivCpp and click compile then run 
 -------------
 
 or
 
-download Virtual Studio as a compiler and Virtual studio code as a code editor run the project from cmd in the project path.
+download VS Code and follow this constrictors => 
+getting started with C++ for your toolset and platform:
+GCC on Windows => https://code.visualstudio.com/docs/cpp/config-mingw
+Microsoft C++ on Windows => https://code.visualstudio.com/docs/cpp/config-msvc
+GCC on Linux => https://code.visualstudio.com/docs/cpp/config-linux
+GCC on Windows Subsystem For Linux => https://code.visualstudio.com/docs/cpp/config-wsl
+Clang/LLVM on macOS => https://code.visualstudio.com/docs/cpp/config-clang-mac
 ------------
